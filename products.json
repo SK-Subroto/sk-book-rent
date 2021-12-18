@@ -1,0 +1,101 @@
+[
+    {
+        "id": "B001",
+        "title": "The Past Is Rising",
+        "author": "Kathryn Bywaters",
+        "location": "Dhaka",
+        "category": "Novel",
+        "rating": 5,
+        "price": 0.2,
+        "img": "https://i.pinimg.com/564x/f7/c8/12/f7c812c9b0296cd9f119e33a06d9a256.jpg",
+        "description": "The Past Is Rising is a compelling fantasy epic that revolves around the uprising of dark forces bent on wresting a kingdom from its rightful rulers."
+    },
+    {
+        "id": "B002",
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "location": "Khulna",
+        "category": "Poem",
+        "rating": 4.5,
+        "price": 0.3,
+        "img": "https://static-01.daraz.com.bd/p/4084a0711c388099e55c08e2c0f28a25.jpg",
+        "description": "To Kill a Mockingbird is a novel by the American author Harper Lee. It was published in 1960 and was instantly successful. In the United States, it is widely read in high schools and middle schools."
+    },
+    {
+        "id": "B003",
+        "title": "The Prophet",
+        "author": "Kahlil Gibran",
+        "location": "Khulna",
+        "category": "Poem",
+        "rating": 4.7,
+        "price": 0.5,
+        "img": "https://images-na.ssl-images-amazon.com/images/I/91iIlD9xegL.jpg",
+        "description": "The Prophet is a book of 26 prose poetry fables written in English by the Lebanese-American poet and writer Kahlil Gibran. It was originally published in 1923 by Alfred A. Knopf."
+    },
+    {
+        "id": "B004",
+        "title": "Brave New World",
+        "author": "Aldous Huxley",
+        "location": "Khulna",
+        "category": "Story",
+        "rating": 3.7,
+        "price": 0.2,
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1331315450l/5479.jpg",
+        "description": "Brave New World is a dystopian social science fiction novel by English author Aldous Huxley, written in 1931 and published in 1932."
+    },
+    {
+        "id": "B005",
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "location": "Khulna",
+        "category": "Sci-Fi",
+        "rating": 4.3,
+        "price": 0.3,
+        "img": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781982146702/the-great-gatsby-9781982146702_hr.jpg",
+        "description": "The Great Gatsby is a 1925 novel by American writer F. Scott Fitzgerald. Set in the Jazz Age on Long Island, near New York City, the novel depicts first-person narrator Nick Carraway's interactions with mysterious "
+    },
+    {
+        "id": "B006",
+        "title": "Hamlet",
+        "author": "William Shakespeare",
+        "location": "Khulna",
+        "category": "Novel",
+        "rating": 4.9,
+        "price": 0.6,
+        "img": "https://kbimages1-a.akamaihd.net/695eb39e-9405-4c4b-8267-302344f0f5f7/1200/1200/False/hamlet-15.jpg",
+        "description": "The Tragedy of Hamlet, Prince of Denmark, often shortened to Hamlet, is a tragedy written by William Shakespeare sometime between 1599 and 1601. It is Shakespeare's longest play, with 29,551 words."
+    },
+    {
+        "id": "B007",
+        "title": "Romeo and Juliet",
+        "author": "William Shakespeare",
+        "location": "Khulna",
+        "category": "Novel",
+        "rating": 3.9,
+        "price": 0.4,
+        "img": "https://images-na.ssl-images-amazon.com/images/I/711TxX8cdlL.jpg",
+        "description": "Romeo and Juliet is a tragedy written by William Shakespeare early in his career about two young Italian star-crossed lovers whose deaths ultimately reconcile their feuding families."
+    },
+    {
+        "id": "B008",
+        "title": "The Time Machine",
+        "author": "H. G. Wells",
+        "location": "Khulna",
+        "category": "Sci-Fi",
+        "rating": 4.1,
+        "price": 0.6,
+        "img": "https://www.perlego.com/books/RM_Books/ingram_csplus_gexhsuob/9781974995561.jpg",
+        "description": "The Time Machine is a science fiction novella by H. G. Wells, published in 1895. The work is generally credited with the popularization of the concept of time travel by using a vehicle."
+    },
+    {
+        "id": "B009",
+        "title": "Gitanjali",
+        "author": "Rabindranath Tagore",
+        "location": "Khulna",
+        "category": "Novel",
+        "rating": 4.1,
+        "price": 0.3,
+        "img": "https://www.parulprakashani.in/wp-content/uploads/2019/01/GITANJALI-Nobel-Prize-Centenary-Edition.jpg",
+        "description": "Gitanjali is a collection of poems by the Bengali poet Rabindranath Tagore. Tagore received the Nobel Prize for Literature, largely for the English translation."
+    }
+]
